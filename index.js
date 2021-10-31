@@ -22,7 +22,7 @@ async function run() {
         const hotelCollection = database.collection('hotels');
         const reviewCollection = database.collection('reviews');
         const myOrdersCollection = database.collection('myOrders');
-        const manageOrdersCollecton = database.collection('manageOrders');
+
         // console.log('database connect successfully');
 
         //GET services api
